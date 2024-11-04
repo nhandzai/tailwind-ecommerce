@@ -47,7 +47,7 @@ npm run build
 ```
 
 ## Live demo
-Check the live demo here: [https://tailwind-ecommerce-demo.vercel.app/](https://tailwind-ecommerce-demo.vercel.app/)
+Check the live demo here: [https://tailwind-ecommerce-demo.vercel.app/](https://tailwind-ecommerce-gxxe9orou-nhan-ducs-projects.vercel.app/)
 
 ## License
 [The MIT License (MIT)](https://github.com/bbulakh/tailwind-ecommerce/blob/main/LICENSE)
